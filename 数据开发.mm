@@ -1,0 +1,487 @@
+<map version="freeplane 1.11.5">
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
+<node TEXT="数据开发" FOLDED="false" ID="ID_107805750" CREATED="1711248548550" MODIFIED="1711272307156" BACKGROUND_COLOR="#0099ff" STYLE="narrow_hexagon" UNIFORM_SHAPE="true" MAX_WIDTH="55.83837 pt" MIN_WIDTH="55.83837 pt" VGAP_QUANTITY="12.75 pt">
+<font SIZE="10"/>
+<hook NAME="MapStyle">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt" TEXT_SHORTENED="true">
+<font SIZE="24"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
+<font SIZE="9"/>
+<stylenode LOCALIZED_TEXT="default" ID="ID_1273250224" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="bubble" SHAPE_VERTICAL_MARGIN="0 pt" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="CENTER" MAX_WIDTH="90 pt" MIN_WIDTH="90 pt" VGAP_QUANTITY="2 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID">
+<arrowlink SHAPE="LINEAR_PATH" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1273250224" STARTINCLINATION="100.6875 pt;0 pt;" ENDINCLINATION="100.6875 pt;6.1875 pt;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<font NAME="Arial" SIZE="9" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+<edge STYLE="bezier" COLOR="#808080" WIDTH="3" DASH="SOLID"/>
+<richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details" TEXT_ALIGN="LEFT">
+<font SIZE="11" BOLD="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<font SIZE="9" BOLD="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT">
+<font BOLD="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#33ff00" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#4e85f8"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="bottom_or_right" STYLE="bubble">
+<font SIZE="9"/>
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_1358928635">
+<icon BUILTIN="yes"/>
+<arrowlink COLOR="#0000ff" TRANSPARENCY="255" DESTINATION="ID_1358928635"/>
+<edge COLOR="#0000cc"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.flower" COLOR="#ffffff" BACKGROUND_COLOR="#255aba" STYLE="oval" TEXT_ALIGN="CENTER" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="22 pt" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#f9d71c" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="CLOSE_DOTS"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="bottom_or_right" STYLE="bubble">
+<font SIZE="9"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval" UNIFORM_SHAPE="true" MAX_WIDTH="120 pt" MIN_WIDTH="120 pt">
+<font SIZE="24" ITALIC="true"/>
+<edge STYLE="bezier" WIDTH="3"/>
+</stylenode>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3、精通MPP数据库或集中式数据，熟悉Java开发、Spark、Flink等技术，熟悉linux操作系统；
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="大数据概述" POSITION="bottom_or_right" ID="ID_1378515068" CREATED="1711274737528" MODIFIED="1711274817877"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flink原理与实践
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="5v" ID="ID_1122323965" CREATED="1711274936377" MODIFIED="1711274940185">
+<node TEXT="Volume" POSITION="bottom_or_right" ID="ID_1615711110" CREATED="1711274907071" MODIFIED="1711274907071">
+<node TEXT="数据量大" ID="ID_1495562540" CREATED="1711274989040" MODIFIED="1711274996018"/>
+</node>
+<node TEXT="Velocity" POSITION="bottom_or_right" ID="ID_1693269796" CREATED="1711274922873" MODIFIED="1711274922873">
+<node TEXT="数据产生速度快" ID="ID_1835210513" CREATED="1711274997136" MODIFIED="1711275005982"/>
+</node>
+<node TEXT="Variety" ID="ID_1547731902" CREATED="1711274962323" MODIFIED="1711274962323">
+<node TEXT="数据种类多" ID="ID_1142072633" CREATED="1711275009111" MODIFIED="1711275014993"/>
+</node>
+<node TEXT="Veracity" POSITION="bottom_or_right" ID="ID_460642673" CREATED="1711274891882" MODIFIED="1711274891882">
+<node TEXT="数据真实性" ID="ID_230515264" CREATED="1711275019435" MODIFIED="1711275052550"/>
+</node>
+<node TEXT="Value" POSITION="bottom_or_right" ID="ID_1611828441" CREATED="1711274886744" MODIFIED="1711274886744">
+<node TEXT="数据价值" ID="ID_1768627655" CREATED="1711275036682" MODIFIED="1711275043398"/>
+</node>
+</node>
+<node TEXT="分而治之" ID="ID_126933645" CREATED="1711275091495" MODIFIED="1711275091495">
+<node TEXT="MPI" ID="ID_521588460" CREATED="1711275172778" MODIFIED="1711275200936"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Message Passing Interface
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="主要解决节点间数据通信的问题" ID="ID_1892596918" CREATED="1711275217492" MODIFIED="1711275217492"/>
+<node TEXT="程序员需要自行设计分治算法" ID="ID_665758139" CREATED="1711275307853" MODIFIED="1711275337110">
+<node ID="ID_596192050" CREATED="1711275314646" MODIFIED="1711275314646"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将复杂问题分解为子问题
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1581128463" CREATED="1711275326334" MODIFIED="1711275326334"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      手动调用MPI库
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_84398537" CREATED="1711275332010" MODIFIED="1711275332010"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将数据发送给指定的进程
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="MapReduce" ID="ID_1310493637" CREATED="1711275181086" MODIFIED="1711275181086">
+<node TEXT="将更多的中间过程做了封装" ID="ID_1432636740" CREATED="1711275276183" MODIFIED="1711275276183"/>
+<node TEXT="基于MapReduce编程模型的大数据框架" ID="ID_1823514419" CREATED="1711275387430" MODIFIED="1711275393443">
+<node TEXT="Hadoop" ID="ID_48671308" CREATED="1711275417354" MODIFIED="1711275417354"/>
+<node TEXT="Spark" ID="ID_682883604" CREATED="1711275426087" MODIFIED="1711275433061"/>
+<node ID="ID_38641506" CREATED="1711275430936" MODIFIED="1711275430936"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flink
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="批处理与流处理" ID="ID_1415582197" CREATED="1711275479809" MODIFIED="1711275479809"/>
+</node>
+<node TEXT="MPP数据库" POSITION="bottom_or_right" ID="ID_1978834108" CREATED="1711249089727" MODIFIED="1711249236854">
+<node TEXT="Massively Parallel Processing" ID="ID_1269422524" CREATED="1711252089116" MODIFIED="1711252094697">
+<node TEXT="大规模并行处理" ID="ID_1652060724" CREATED="1711252095324" MODIFIED="1711252100369"/>
+</node>
+<node TEXT="ClickHouse" POSITION="bottom_or_right" ID="ID_1752737420" CREATED="1711251983928" MODIFIED="1711251990155"/>
+<node TEXT="Starrocks" POSITION="bottom_or_right" ID="ID_1842796380" CREATED="1711251990594" MODIFIED="1711251994843"/>
+</node>
+<node TEXT="Spark" POSITION="top_or_left" ID="ID_1394214624" CREATED="1711249098168" MODIFIED="1711249104953">
+<node TEXT="基于内存的分布式计算框架" ID="ID_1970128605" CREATED="1711271629612" MODIFIED="1711271629612"/>
+<node TEXT="优化Hadoop MapReduce计算部分" ID="ID_1215928627" CREATED="1711272453887" MODIFIED="1711272453887"/>
+<node TEXT="非常适合面向批处理需求" ID="ID_1173367706" CREATED="1711275581807" MODIFIED="1711275597903"/>
+</node>
+<node TEXT="Flink" POSITION="bottom_or_right" ID="ID_1113001138" CREATED="1711249108409" MODIFIED="1711272279073"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flink原理与实践
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="大数据处理框架" ID="ID_1677540462" CREATED="1711275912323" MODIFIED="1711275912323">
+<node TEXT="支持在有界和无界数据流上做有状态计算" ID="ID_1554075616" CREATED="1711275930421" MODIFIED="1711275930421"/>
+<node TEXT="主要面向流处理" POSITION="bottom_or_right" ID="ID_599061402" CREATED="1711275867016" MODIFIED="1711275867016"/>
+</node>
+<node TEXT="有状态计算" ID="ID_1033945691" CREATED="1711275992478" MODIFIED="1711275992478">
+<node TEXT="潜在场景" ID="ID_384939070" CREATED="1711276041197" MODIFIED="1711276041197">
+<node TEXT="数据去重" ID="ID_1681573312" CREATED="1711276059181" MODIFIED="1711276074015"/>
+<node TEXT="数据流中的数据有重复" ID="ID_511307361" CREATED="1711276090502" MODIFIED="1711276090502"/>
+<node TEXT="根据新流入数据不断更新机器学习的模型参数" ID="ID_801644357" CREATED="1711276114075" MODIFIED="1711276114075"/>
+</node>
+</node>
+</node>
+<node TEXT="Hadoop" FOLDED="true" POSITION="top_or_left" ID="ID_981812701" CREATED="1711249212887" MODIFIED="1711272351718"><richcontent TYPE="DETAILS">
+<html>
+  
+
+  <head>
+
+  </head>
+  <body>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      基于Hadoop与Spark的大数据开发实战
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="分布式系统基础架构" ID="ID_1043732710" CREATED="1711270430573" MODIFIED="1711270430573"/>
+<node TEXT="主要包括" ID="ID_1298166430" CREATED="1711270557007" MODIFIED="1711270562282">
+<node TEXT="HDFS" POSITION="top_or_left" ID="ID_917889060" CREATED="1711270456338" MODIFIED="1711270787246"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Hadoop Distributed File System
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="分布式文件系统" ID="ID_345782227" CREATED="1711270499036" MODIFIED="1711270499036">
+<node ID="ID_719528292" CREATED="1711270656179" MODIFIED="1711270656179"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      一个文件
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_32690918" CREATED="1711270669256" MODIFIED="1711270669256"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      多台主机上
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1974523279" CREATED="1711270675567" MODIFIED="1711270675567"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      多副本
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_821593655" CREATED="1711270681107" MODIFIED="1711270681107"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      提高容错性
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node ID="ID_471721506" CREATED="1711270706511" MODIFIED="1711270706511"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      像是访问本地的磁盘一样
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node POSITION="top_or_left" ID="ID_375941415" CREATED="1711270693350" MODIFIED="1711270693350"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      通过网络来访问文件
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="组成部分" ID="ID_1157258479" CREATED="1711270801147" MODIFIED="1711270810001">
+<node TEXT="数据块" ID="ID_223564093" CREATED="1711270810951" MODIFIED="1711270815775"/>
+<node TEXT="元数据节点" ID="ID_1246118187" CREATED="1711270833203" MODIFIED="1711270833203">
+<node TEXT="保存所有的文件和文件夹的元数据" ID="ID_1670355122" CREATED="1711270933263" MODIFIED="1711270944846">
+<node ID="ID_1597648926" CREATED="1711270960814" MODIFIED="1711270960814"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      包括哪些数据块
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_503811507" CREATED="1711270966480" MODIFIED="1711270966480"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      分布在哪些数据节点
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="数据节点" ID="ID_1206546006" CREATED="1711270842998" MODIFIED="1711270842998"/>
+</node>
+</node>
+<node TEXT="Map Reduce" POSITION="top_or_left" ID="ID_1533101654" CREATED="1711270466598" MODIFIED="1711270466598">
+<node TEXT="分布式计算系统" ID="ID_67732591" CREATED="1711270555830" MODIFIED="1711270555830"/>
+</node>
+<node TEXT="YARN" POSITION="top_or_left" ID="ID_79492328" CREATED="1711270481868" MODIFIED="1711270481868">
+<node TEXT="分布式资源管理系统" ID="ID_664239612" CREATED="1711270547465" MODIFIED="1711270547465"/>
+</node>
+</node>
+</node>
+<node TEXT="ZooKeeper" FOLDED="true" POSITION="bottom_or_right" ID="ID_278881635" CREATED="1711249293804" MODIFIED="1711249378713">
+<node TEXT="分布式应用程序协调服务" ID="ID_148097081" CREATED="1711250811728" MODIFIED="1711250828788">
+<node TEXT="为分布式应用提供一致性服务" ID="ID_1616521330" CREATED="1711250866551" MODIFIED="1711250878370">
+<node TEXT="Hadoop" ID="ID_1117957962" CREATED="1711250885311" MODIFIED="1711250890965"/>
+<node TEXT="Hbase" ID="ID_1131470225" CREATED="1711250892010" MODIFIED="1711250898839"/>
+</node>
+</node>
+<node TEXT="特性" ID="ID_1940025507" CREATED="1711250939340" MODIFIED="1711250941966">
+<node TEXT="顺序一致性" ID="ID_1106355424" CREATED="1711250942275" MODIFIED="1711250946401">
+<node TEXT="严格按事务请求顺序处理" ID="ID_962621906" CREATED="1711250957350" MODIFIED="1711250984014"/>
+</node>
+<node TEXT="原子性" ID="ID_660019535" CREATED="1711250984866" MODIFIED="1711250988855"/>
+<node TEXT="单一视图" ID="ID_1006763560" CREATED="1711251001049" MODIFIED="1711251010710"/>
+<node TEXT="可靠性" ID="ID_616004198" CREATED="1711251012569" MODIFIED="1711251015328">
+<node TEXT="持久性" ID="ID_1295550302" CREATED="1711251034036" MODIFIED="1711251036789"/>
+</node>
+<node TEXT="实时性" ID="ID_914788980" CREATED="1711251042215" MODIFIED="1711251045485"/>
+</node>
+<node TEXT="ZooKeeper集群" ID="ID_238908365" CREATED="1711251072571" MODIFIED="1711251078781">
+<node TEXT="一个leader" ID="ID_726318330" CREATED="1711251091355" MODIFIED="1711251094879">
+<node TEXT="主节点" ID="ID_961568667" CREATED="1711251122048" MODIFIED="1711251124775"/>
+<node TEXT="响应所有状态变更请求" ID="ID_842319570" CREATED="1711251133171" MODIFIED="1711251148770"/>
+</node>
+<node TEXT="多个follower" ID="ID_1362456673" CREATED="1711251095359" MODIFIED="1711251102045"/>
+<node TEXT="leader选举机制" POSITION="bottom_or_right" ID="ID_1310683848" CREATED="1711251157296" MODIFIED="1711251168620">
+<node TEXT="每个server发出投票" ID="ID_582249799" CREATED="1711251362314" MODIFIED="1711251381498">
+<node TEXT="SID" ID="ID_1340343460" CREATED="1711251383823" MODIFIED="1711251387842">
+<node TEXT="服务器ID" ID="ID_1028397669" CREATED="1711251395185" MODIFIED="1711251399683"/>
+</node>
+<node TEXT="ZXID" ID="ID_1319802891" CREATED="1711251389000" MODIFIED="1711251390478">
+<node TEXT="事务ID" ID="ID_1366984915" CREATED="1711251390914" MODIFIED="1711251394060"/>
+<node TEXT="越大事务越新" ID="ID_1412432761" CREATED="1711251424586" MODIFIED="1711251443585"/>
+</node>
+</node>
+<node TEXT="接受投票" ID="ID_1819015506" CREATED="1711251402778" MODIFIED="1711251410568"/>
+<node TEXT="处理投票" ID="ID_541304647" CREATED="1711251410719" MODIFIED="1711251416096">
+<node TEXT="ZXID比较大的作为leader" ID="ID_1835374096" CREATED="1711251420150" MODIFIED="1711251467208"/>
+<node TEXT="其次比较SID" ID="ID_1174963443" CREATED="1711251467820" MODIFIED="1711251478339"/>
+</node>
+<node TEXT="统计投票" ID="ID_408581155" CREATED="1711251498090" MODIFIED="1711251501066"/>
+</node>
+</node>
+</node>
+<node TEXT="Kafka" FOLDED="true" POSITION="top_or_left" ID="ID_1014542464" CREATED="1711249380025" MODIFIED="1711268549985" VGAP_QUANTITY="2 pt">
+<node TEXT="消息队列" ID="ID_1114405513" CREATED="1711249870863" MODIFIED="1711268549976">
+<node TEXT="基本概念" POSITION="top_or_left" ID="ID_1981135818" CREATED="1711249510994" MODIFIED="1711249869180">
+<node TEXT="应用间的通讯方式" ID="ID_1712196759" CREATED="1711249595623" MODIFIED="1711249604002"/>
+<node TEXT="由消息系统确保信息的可靠传递" ID="ID_498379644" CREATED="1711249626856" MODIFIED="1711249647419"/>
+<node TEXT="消息发布者&amp;接受者相互不感知" ID="ID_250464763" CREATED="1711249658715" MODIFIED="1711249675488"/>
+</node>
+<node TEXT="应用场景" POSITION="top_or_left" ID="ID_844736723" CREATED="1711249678636" MODIFIED="1711249686641">
+<node TEXT="应用解耦" ID="ID_767853072" CREATED="1711249708102" MODIFIED="1711249718714"/>
+<node TEXT="异步处理" ID="ID_1378290371" CREATED="1711249719575" MODIFIED="1711249725696"/>
+<node TEXT="限流削峰" ID="ID_1322562909" CREATED="1711249729835" MODIFIED="1711249768264"/>
+<node TEXT="消息驱动的系统" ID="ID_42110769" CREATED="1711249774248" MODIFIED="1711249778307"/>
+</node>
+<node TEXT="模式" POSITION="top_or_left" ID="ID_1474545427" CREATED="1711249795552" MODIFIED="1711249797746">
+<node TEXT="点对点" ID="ID_1484185190" CREATED="1711249798085" MODIFIED="1711249800709"/>
+<node TEXT="发布订阅" ID="ID_1576488003" CREATED="1711249812254" MODIFIED="1711249821786">
+<node TEXT="topic" ID="ID_1515736841" CREATED="1711249827684" MODIFIED="1711249829866"/>
+<node TEXT="发布者" ID="ID_1104723472" CREATED="1711249840491" MODIFIED="1711249843428"/>
+<node TEXT="订阅者" ID="ID_1572828899" CREATED="1711249844370" MODIFIED="1711249846393"/>
+</node>
+</node>
+</node>
+<node TEXT="基本介绍" ID="ID_1138123953" CREATED="1711249885760" MODIFIED="1711249890412">
+<node TEXT="消息发布订阅系统" ID="ID_1983824804" CREATED="1711249919826" MODIFIED="1711249933467">
+<node TEXT="分布式" POSITION="top_or_left" ID="ID_266068345" CREATED="1711249895780" MODIFIED="1711249898159"/>
+<node TEXT="分区" POSITION="top_or_left" ID="ID_1398777224" CREATED="1711249898298" MODIFIED="1711249900910"/>
+<node TEXT="多副本" POSITION="top_or_left" ID="ID_840709386" CREATED="1711249902867" MODIFIED="1711249905518"/>
+<node TEXT="多订阅" POSITION="top_or_left" ID="ID_1740908508" CREATED="1711249908434" MODIFIED="1711249911142"/>
+<node TEXT="可扩展" POSITION="top_or_left" ID="ID_1618316946" CREATED="1711250135637" MODIFIED="1711250138381"/>
+<node TEXT="持久化" POSITION="top_or_left" ID="ID_1908654005" CREATED="1711250139652" MODIFIED="1711250144152"/>
+<node TEXT="高吞吐" POSITION="top_or_left" ID="ID_557895197" CREATED="1711250155906" MODIFIED="1711250161119"/>
+<node TEXT="可靠性" POSITION="top_or_left" ID="ID_1930119191" CREATED="1711250178561" MODIFIED="1711250181525"/>
+</node>
+<node TEXT="根据消息topic归类" ID="ID_1696378046" CREATED="1711249949328" MODIFIED="1711249963641"/>
+<node TEXT="依赖zookeeper" ID="ID_1504786196" CREATED="1711250022249" MODIFIED="1711250029333">
+<node TEXT="保证系统可用性" ID="ID_1742219879" CREATED="1711250029673" MODIFIED="1711250043512"/>
+<node TEXT="保存meta信息" ID="ID_1912067784" CREATED="1711250050035" MODIFIED="1711250055259"/>
+</node>
+</node>
+<node TEXT="应用" ID="ID_1950167524" CREATED="1711250192839" MODIFIED="1711250197340">
+<node TEXT="指标分析监控" ID="ID_778860622" CREATED="1711250197893" MODIFIED="1711250209770"/>
+<node TEXT="日志聚合" ID="ID_1781679615" CREATED="1711250209884" MODIFIED="1711250217118"/>
+<node TEXT="流式处理" ID="ID_1966708669" CREATED="1711250217670" MODIFIED="1711250228489"/>
+</node>
+</node>
+<node TEXT="疑问" POSITION="top_or_left" ID="ID_1129057740" CREATED="1711268826407" MODIFIED="1711268830444">
+<node TEXT="大数据数据库选列存？行存？" ID="ID_928776294" CREATED="1711268830883" MODIFIED="1711268860507"/>
+</node>
+</node>
+</map>
