@@ -62,8 +62,7 @@
       3、精通MPP数据库或集中式数据，熟悉Java开发、Spark、Flink等技术，熟悉linux操作系统；
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="大数据概述" POSITION="bottom_or_right" ID="ID_1378515068" CREATED="1711274737528" MODIFIED="1711274817877"><richcontent TYPE="NOTE">
 <html>
   <head>
@@ -74,8 +73,7 @@
       Flink原理与实践
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="5v" ID="ID_1122323965" CREATED="1711274936377" MODIFIED="1711274940185">
 <node TEXT="Volume" POSITION="bottom_or_right" ID="ID_1615711110" CREATED="1711274907071" MODIFIED="1711274907071">
 <node TEXT="数据量大" ID="ID_1495562540" CREATED="1711274989040" MODIFIED="1711274996018"/>
@@ -104,8 +102,7 @@
       Message Passing Interface
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="主要解决节点间数据通信的问题" ID="ID_1892596918" CREATED="1711275217492" MODIFIED="1711275217492"/>
 <node TEXT="程序员需要自行设计分治算法" ID="ID_665758139" CREATED="1711275307853" MODIFIED="1711275337110">
 <node ID="ID_596192050" CREATED="1711275314646" MODIFIED="1711275314646"><richcontent TYPE="NODE">
@@ -120,7 +117,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1581128463" CREATED="1711275326334" MODIFIED="1711275326334"><richcontent TYPE="NODE">
@@ -135,7 +131,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_84398537" CREATED="1711275332010" MODIFIED="1711275332010"><richcontent TYPE="NODE">
@@ -150,7 +145,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -172,7 +166,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -202,8 +195,7 @@
       Flink原理与实践
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="大数据处理框架" ID="ID_1677540462" CREATED="1711275912323" MODIFIED="1711275912323">
 <node TEXT="支持在有界和无界数据流上做有状态计算" ID="ID_1554075616" CREATED="1711275930421" MODIFIED="1711275930421"/>
 <node TEXT="主要面向流处理" POSITION="bottom_or_right" ID="ID_599061402" CREATED="1711275867016" MODIFIED="1711275867016"/>
@@ -225,8 +217,7 @@
   </head>
   <body>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -237,8 +228,7 @@
       基于Hadoop与Spark的大数据开发实战
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="分布式系统基础架构" ID="ID_1043732710" CREATED="1711270430573" MODIFIED="1711270430573"/>
 <node TEXT="主要包括" ID="ID_1298166430" CREATED="1711270557007" MODIFIED="1711270562282">
 <node TEXT="HDFS" POSITION="top_or_left" ID="ID_917889060" CREATED="1711270456338" MODIFIED="1711270787246"><richcontent TYPE="DETAILS">
@@ -251,8 +241,7 @@
       Hadoop Distributed File System
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="分布式文件系统" ID="ID_345782227" CREATED="1711270499036" MODIFIED="1711270499036">
 <node ID="ID_719528292" CREATED="1711270656179" MODIFIED="1711270656179"><richcontent TYPE="NODE">
 
@@ -266,7 +255,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_32690918" CREATED="1711270669256" MODIFIED="1711270669256"><richcontent TYPE="NODE">
 
@@ -280,7 +268,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1974523279" CREATED="1711270675567" MODIFIED="1711270675567"><richcontent TYPE="NODE">
@@ -295,7 +282,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_821593655" CREATED="1711270681107" MODIFIED="1711270681107"><richcontent TYPE="NODE">
 
@@ -309,7 +295,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -326,7 +311,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node POSITION="top_or_left" ID="ID_375941415" CREATED="1711270693350" MODIFIED="1711270693350"><richcontent TYPE="NODE">
 
@@ -340,7 +324,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -361,7 +344,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_503811507" CREATED="1711270966480" MODIFIED="1711270966480"><richcontent TYPE="NODE">
@@ -376,7 +358,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -435,7 +416,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Kafka" FOLDED="true" POSITION="top_or_left" ID="ID_1014542464" CREATED="1711249380025" MODIFIED="1711268549985" VGAP_QUANTITY="2 pt">
+<node TEXT="Kafka" POSITION="top_or_left" ID="ID_1014542464" CREATED="1711249380025" MODIFIED="1711268549985" VGAP_QUANTITY="2 pt">
 <node TEXT="消息队列" ID="ID_1114405513" CREATED="1711249870863" MODIFIED="1711268549976">
 <node TEXT="基本概念" POSITION="top_or_left" ID="ID_1981135818" CREATED="1711249510994" MODIFIED="1711249869180">
 <node TEXT="应用间的通讯方式" ID="ID_1712196759" CREATED="1711249595623" MODIFIED="1711249604002"/>
